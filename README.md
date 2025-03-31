@@ -6,4 +6,4 @@ QMChatUI是快智乐服 cc平台iOS一客服UI组件
 
 cocoapods 管理
 
-pod 'KZLFQMChatUI', '~>  1.0.0'
+pod 'KZLFQMChatUI', '~>  1.0.2'
